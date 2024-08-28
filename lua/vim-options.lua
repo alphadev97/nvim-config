@@ -11,4 +11,5 @@ end)
 vim.opt.breakindent = true
 vim.opt.cursorline = true
 vim.opt.scrolloff = 10
+vim.opt.termguicolors = true
 
